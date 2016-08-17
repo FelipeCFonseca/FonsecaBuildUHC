@@ -1,0 +1,8 @@
+name: FonsecaBuildUHC
+description: The game based on UHC Gamemode
+version: 1.5-RELEASE
+main: me.felipefonseca.plugins.Main
+author: Felipe Fonseca
+commands:
+    builduhc:
+        description: Main Command
